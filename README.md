@@ -12,13 +12,7 @@
 
 ---
 
-## About
 
-Engineering and Master's graduate in Artificial Intelligence and Data Science from the Higher School of Computer Science (ESI-SBA), Algeria — July 2026. My academic and research work covers log-based anomaly detection, computer vision for UAV applications, natural language processing, and full-stack application development. I build end-to-end systems from data engineering and model development through to deployment and documentation.
-
-- Thesis: Log-Based Anomaly Detection in Distributed Systems — evaluated 11 ML/DL models on HDFS, BGL, and Spirit datasets with a real-time Kafka streaming pipeline
-- Internship: Object Detection and Tracking for UAV Applications at URD Laboratory (2024–2025)
-- Previously: Flutter Front-End Developer, KidLink school communication platform (PFE, 2022–2023)
 
 ---
 
