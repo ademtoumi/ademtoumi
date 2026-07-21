@@ -25,47 +25,40 @@ Higher School of Computer Science (ESI-SBA) — Sidi Bel Abbès, Algeria — Jul
 
 ## Technical Skills
 
-**AI & Data Science**  
-Machine Learning · Deep Learning · Computer Vision · Natural Language Processing · Data Analysis
+<p align="center">
 
-**Programming Languages**
+![Python](https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-412991?style=flat&logo=openai&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-3178C6?style=flat&logo=typescript&logoColor=white)
+![Pandas](https://img.shields.io/badge/-150458?style=flat&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=docker&logoColor=white)
+![Next.js](https://img.shields.io/badge/-000000?style=flat&logo=nextdotjs&logoColor=white)
+![NumPy](https://img.shields.io/badge/-013243?style=flat&logo=numpy&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-231F20?style=flat&logo=apachekafka&logoColor=white)
+![React](https://img.shields.io/badge/-20232A?style=flat&logo=react&logoColor=61DAFB)
+![XGBoost](https://img.shields.io/badge/-189AB4?style=flat&logo=xgboost&logoColor=white)
+![Dart](https://img.shields.io/badge/-0175C2?style=flat&logo=dart&logoColor=white)
+![MLflow](https://img.shields.io/badge/-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Flutter](https://img.shields.io/badge/-02569B?style=flat&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-4169E1?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/-F05032?style=flat&logo=git&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/-FCC624?style=flat&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/-F37626?style=flat&logo=jupyter&logoColor=white)
+![LangChain](https://img.shields.io/badge/-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Unity](https://img.shields.io/badge/-000000?style=flat&logo=unity&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**Frameworks & Libraries**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat&logo=xgboost&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Development Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+</p>
 
 ---
 
