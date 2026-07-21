@@ -25,39 +25,26 @@ Higher School of Computer Science (ESI-SBA) — Sidi Bel Abbès, Algeria — Jul
 
 ## Technical Skills
 
+**AI & Data Science**
+Machine Learning · Deep Learning · Computer Vision · Natural Language Processing · Large Language Models · Data Analysis
+
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,java,react" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,flutter,tailwind,html" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,postgres,kafka" />
+  <img src="https://skillicons.dev/icons?i=firebase,jupyter,vscode,github,unity" />
+</p>
 
-![Python](https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-412991?style=flat&logo=openai&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-3178C6?style=flat&logo=typescript&logoColor=white)
-![Pandas](https://img.shields.io/badge/-150458?style=flat&logo=pandas&logoColor=white)
-![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=docker&logoColor=white)
-![Next.js](https://img.shields.io/badge/-000000?style=flat&logo=nextdotjs&logoColor=white)
-![NumPy](https://img.shields.io/badge/-013243?style=flat&logo=numpy&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/-231F20?style=flat&logo=apachekafka&logoColor=white)
-![React](https://img.shields.io/badge/-20232A?style=flat&logo=react&logoColor=61DAFB)
-![XGBoost](https://img.shields.io/badge/-189AB4?style=flat&logo=xgboost&logoColor=white)
-![Dart](https://img.shields.io/badge/-0175C2?style=flat&logo=dart&logoColor=white)
-![MLflow](https://img.shields.io/badge/-0194E2?style=flat&logo=mlflow&logoColor=white)
-![Flutter](https://img.shields.io/badge/-02569B?style=flat&logo=flutter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-4169E1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/-F05032?style=flat&logo=git&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/-FCC624?style=flat&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/-F37626?style=flat&logo=jupyter&logoColor=white)
-![LangChain](https://img.shields.io/badge/-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Unity](https://img.shields.io/badge/-000000?style=flat&logo=unity&logoColor=white)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ---
