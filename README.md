@@ -51,6 +51,15 @@ Machine Learning · Deep Learning · Computer Vision · Natural Language Process
 
 ## Featured Projects
 
+### [KnowledgeHub AI — RAG Platform with LLMs & Explainable AI](https://github.com/ademtoumi/KnowledgeHub-AI)
+*Flagship AI Engineering Project — 2026*
+
+Production-ready Retrieval-Augmented Generation (RAG) platform for intelligent document understanding and question answering. Combines Hybrid Retrieval (FAISS + BM25), Cross-Encoder Reranking, Explainable AI (XAI), Google Gemini LLM, and a modern React dashboard.
+
+`Python` `FastAPI` `React` `Vite` `FAISS` `BM25` `Sentence Transformers` `Cross-Encoder` `Google Gemini` `Tailwind CSS` `Docker`
+
+---
+
 ### [Log-Based Anomaly Detection in Distributed Systems](https://github.com/ademtoumi/log-anomaly-detection)
 *Engineering & Master's Thesis — ESI-SBA, July 2026*
 
